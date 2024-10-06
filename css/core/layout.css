@@ -1,0 +1,18 @@
+/* header와 footer겅우는 모든 페이지에서 사용가능한 ui
+php나 react를 이용하면 ui재사용가능
+아직배우지않아서layout.css에 footer header,inner정의
+*/
+
+.main-inner{
+  width:1348px;
+
+}
+
+
+
+
+
+
+
+
+
